@@ -18,7 +18,11 @@ This is a repo that
 
 
 ### Time Series Anomaly Detection
+> Time Series
 - DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection, in *KDD*, 2023. [\[paper\]](https://arxiv.org/abs/2306.10347)
+
+> Other data
+- AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise, in *CVPR*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9857019) 
 
 
 
