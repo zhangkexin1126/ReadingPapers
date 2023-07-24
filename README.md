@@ -17,6 +17,10 @@ This is a repo that
 - ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring, in *ICLR*, 2020. [\[paper\]](https://openreview.net/forum?id=HklkeR4KPB)
 
 
+### Time Series Anomaly Detection
+- DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection, in *KDD*, 2023. [\[paper\]](https://arxiv.org/abs/2306.10347)
+
+
 
 
 ### Industrial Fault Diagnosis
