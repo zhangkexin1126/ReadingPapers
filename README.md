@@ -36,6 +36,7 @@ This is a repo that
 > Time Series
 - Adversarial Attacks on Time Series, in *IEEE TPAMI*, 2020. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9063523)
 - Small perturbations are enough: Adversarial attacks on time series prediction, in *Information Sciences*, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0020025521011178)
+- Adv-IFD: Adversarial Attack Datasets for An Intelligent Fault Diagnosis, in *IEEE IJCNN*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9891963) [\[code\]](https://github.com/achyutmani/ADV-IFD)
 > Other data
 - 
 ----
