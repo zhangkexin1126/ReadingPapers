@@ -30,7 +30,15 @@ This is a repo that
 ----
 ### Diffusion Models
 - Denoising Diffusion Probabilistic Models, in *NeurIPS*, 2020. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
-
+> Time Series
+- Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, in *ICML*, 2021. [\[paper\]](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
+- BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning, in *KDD*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539178)
+- CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, in *NeurIPS*, 2021. [\[paper\]](https://arxiv.org/abs/2107.03502)
+- Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2208.09399)
+- Diffusion Models for Multivariate Time Series Generation with Missing Values, in *techrxiv*, 2023. [\[paper\]](https://www.techrxiv.org/articles/preprint/Diffusion_Models_for_Multivariate_Time_Series_Generation_with_Missing_Values/23674863)
+- Diffusion Models for Time Series Applications: A Survey, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2305.00624)
+- ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.00754)
+- TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.12667)
 --- 
 ### Safety / Security / Adversarial Attacks
 > Data-driven Industrial Models
