@@ -41,6 +41,11 @@ This is a repo that
 - ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.00754)
 - TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.12667)
 
+----
+### Computer Vision
+> Net architecture
+- Network in Network, in *ICLR*, 2014. [\[paper\]](https://arxiv.org/pdf/1312.4400.pdf)
+
 
 --- 
 ### Safety / Security / Adversarial Attacks
