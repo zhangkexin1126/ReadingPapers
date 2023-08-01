@@ -8,8 +8,9 @@ This is a repo that
 ## Paper List
 
 ### Self-supervised Learning
-- 
-
+> Contrastive Learning
+- A Simple Framework for Contrastive Learning of Visual Representations, in *ICML*, 2020. [\[paper\]](https://arxiv.org/pdf/2002.05709.pdf) [\[paper\]](https://github.com/google-research/simclr)
+- Exploring Simple Siamese Representation Learning, in *CVPR*, 2021. [\[paper\]](https://arxiv.org/abs/2011.10566?fileGuid=WyYwxqq8kWjKdWgd) [\[paper\]](https://github.com/facebookresearch/simsiam)
 
 ----
 ### Semi-supervised Learning
