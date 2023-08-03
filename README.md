@@ -55,13 +55,25 @@ This is a repo that
 - Transfer adversarial attacks across industrial intelligent systems, in *Reliability Engineering & System Safety*, 2023. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0951832023002132)
 - Attack and Defense: Adversarial Security of Data-Driven FDC Systems, in *IEEE Transactions on Industrial Informatics*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9852307) [\[code\]](https://github.com/JacobZhuo/Adversarial-Security-of-FDC)
 
+> Adversarial Samples
+- Adversarial Examples can be Effective Data Augmentation for Unsupervised Machine Learning, in *AAAI*, 2022. [\[paper\]](https://arxiv.org/pdf/2103.01895.pdf)
+- Adversarial Examples Improve Image Recognition, in *CVPR*, 2020. [\[paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Adversarial_Examples_Improve_Image_Recognition_CVPR_2020_paper.pdf)
+
 > Time Series
 - Adversarial Attacks on Time Series, in *IEEE TPAMI*, 2020. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9063523)
 - Small perturbations are enough: Adversarial attacks on time series prediction, in *Information Sciences*, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0020025521011178)
 - 
 
+
+
 > Other data
 - 
+
+----
+### Data augmentation
+
+
+
 ----
 ### Industrial Fault Diagnosis
 
