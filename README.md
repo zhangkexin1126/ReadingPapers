@@ -33,7 +33,7 @@ This is a repo that
 
 > Time Series
 - Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, in *ICML*, 2021. [\[paper\]](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
-% - BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning, in *KDD*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539178)
+<!-- - BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning, in *KDD*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539178) -->
 - CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, in *NeurIPS*, 2021. [\[paper\]](https://arxiv.org/abs/2107.03502)
 - Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2208.09399)
 - Diffusion Models for Multivariate Time Series Generation with Missing Values, in *techrxiv*, 2023. [\[paper\]](https://www.techrxiv.org/articles/preprint/Diffusion_Models_for_Multivariate_Time_Series_Generation_with_Missing_Values/23674863)
