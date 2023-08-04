@@ -11,6 +11,9 @@ This is a repo that
 > Contrastive Learning
 - A Simple Framework for Contrastive Learning of Visual Representations, in *ICML*, 2020. [\[paper\]](https://arxiv.org/pdf/2002.05709.pdf) [\[paper\]](https://github.com/google-research/simclr)
 - Exploring Simple Siamese Representation Learning, in *CVPR*, 2021. [\[paper\]](https://arxiv.org/abs/2011.10566?fileGuid=WyYwxqq8kWjKdWgd) [\[paper\]](https://github.com/facebookresearch/simsiam)
+- Adversarial Self-Supervised Contrastive Learning, in *NeurIPS*, 2020. [\[paper\]](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)
+- Robust Pre-Training by Adversarial Contrastive Learning, in *NeurIPS*, 2020. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2020/file/ba7e36c43aff315c00ec2b8625e3b719-Paper.pdf)
+- 
 
 ----
 ### Semi-supervised Learning
