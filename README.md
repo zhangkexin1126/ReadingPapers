@@ -28,7 +28,7 @@ This is a repo that
 - Semi-Supervised Contrastive Learning With Similarity Co-Calibration, in *IEEE  Transactions on Multimedia*, 2023. [\[paper\]](https://ieeexplore.ieee.org/document/9732218)
 - Class-Aware Contrastive Semi-Supervised Learning, in *CVPR*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9880146) [\[code\]](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
 - Contrastive Semi-supervised Learning for ASR, in *ICASSP*, 2021. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9414079)
-- 
+- Contrastive Regularization for Semi-Supervised Learning, in *ICCV*, 2022. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Lee_Contrastive_Regularization_for_Semi-Supervised_Learning_CVPRW_2022_paper.html)
 
 > Task: Time series classification
 - Semi-supervised Time Series Classification Model with Self-supervised Learning, in *Engineering Applications of Artificial Intelligence*, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0952197622003633)
