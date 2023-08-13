@@ -17,12 +17,26 @@ This is a repo that
 
 ----
 ### Semi-supervised Learning
+> Popular Methods 
 - Semi-Supervised Learning with Ladder Networks, in *NeurIPS*, 2015. [\[paper\]](https://arxiv.org/abs/1507.02672)
-- Semi-Supervised Contrastive Learning With Similarity Co-Calibration, in *IEEE  Transactions on Multimedia*, 2023. [\[paper\]](https://ieeexplore.ieee.org/document/9732218)
 - MixMatch: A Holistic Approach to Semi-Supervised Learning, in *NeurIPS*, 2019. [\[paper\]](https://papers.nips.cc/paper_files/paper/2019/hash/1cd138d0499a68f4bb72bee04bbec2d7-Abstract.html)
 - ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring, in *ICLR*, 2020. [\[paper\]](https://openreview.net/forum?id=HklkeR4KPB)
+- FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, in *NeurIPS*, 2020. [\[paper\]](https://arxiv.org/abs/2001.07685) [\[code\]](https://github.com/google-research/fixmatch)
+- 
+
+> Combined with Contrastive Learning
+- Semi-Supervised Contrastive Learning With Similarity Co-Calibration, in *IEEE  Transactions on Multimedia*, 2023. [\[paper\]](https://ieeexplore.ieee.org/document/9732218)
+- Class-Aware Contrastive Semi-Supervised Learning, in *CVPR*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9880146) [\[code\]](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
+- Contrastive Semi-supervised Learning for ASR, in *ICASSP*, 2021. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9414079)
+- 
+
+> Task: Time series classification
+- Semi-supervised Time Series Classification Model with Self-supervised Learning, in *Engineering Applications of Artificial Intelligence*, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0952197622003633)
+
 ----
-### Time Series Anomaly Detection
+
+
+### Anomaly Detection
 > Time Series
 - DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection, in *KDD*, 2023. [\[paper\]](https://arxiv.org/abs/2306.10347)
 - Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy, in *ICLR*, 2022. [\[paper\]](https://arxiv.org/abs/2110.02642)
@@ -32,11 +46,12 @@ This is a repo that
 
 ----
 ### Diffusion Models
+> Popular Methods
 - Denoising Diffusion Probabilistic Models, in *NeurIPS*, 2020. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
 
 > Time Series
 - Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, in *ICML*, 2021. [\[paper\]](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
-<!-- - BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning, in *KDD*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539178) -->
+- BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning, in *KDD*, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539178)
 - CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, in *NeurIPS*, 2021. [\[paper\]](https://arxiv.org/abs/2107.03502)
 - Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2208.09399)
 - Diffusion Models for Multivariate Time Series Generation with Missing Values, in *techrxiv*, 2023. [\[paper\]](https://www.techrxiv.org/articles/preprint/Diffusion_Models_for_Multivariate_Time_Series_Generation_with_Missing_Values/23674863)
