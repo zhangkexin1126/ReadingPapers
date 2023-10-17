@@ -80,6 +80,9 @@ This is a repo that
 - Adversarial Examples can be Effective Data Augmentation for Unsupervised Machine Learning, in *AAAI*, 2022. [\[paper\]](https://arxiv.org/pdf/2103.01895.pdf)
 - Adversarial Examples Improve Image Recognition, in *CVPR*, 2020. [\[paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Adversarial_Examples_Improve_Image_Recognition_CVPR_2020_paper.pdf)
 
+> Adversarial Training/Learning 
+- Adversarial Self-Supervised Contrastive Learning, in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)
+
 > Time Series
 - Adversarial Attacks on Time Series, in *IEEE TPAMI*, 2020. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9063523)
 - Small perturbations are enough: Adversarial attacks on time series prediction, in *Information Sciences*, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0020025521011178)
